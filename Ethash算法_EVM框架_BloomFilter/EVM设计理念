@@ -1,5 +1,5 @@
 #### EVM设计理念
-![evm1](./images/EVM1.PNG)
+![evm1](./images/EVM1.PNG "evm1")
 1、 基于栈的虚拟机，栈的每个元素为32字节，适应相关加密算法如kaccak
 2、 合约间的调用上限为1024
 3、 栈的大小无限制，依靠gasLimit及调用深度来限制

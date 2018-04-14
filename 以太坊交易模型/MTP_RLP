@@ -1,4 +1,4 @@
-#### mtp与rlp
+### mtp与rlp
 MTP 结构包含了Merkle Tree和Patricia Tree
 ![mtp_rlp](./images/mtp_rlp.png)
 Merkle Tree 的好处是当要证明一个交易是否存在块中时，不重新计算所有交易的hash值
